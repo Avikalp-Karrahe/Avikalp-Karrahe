@@ -1,15 +1,26 @@
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
   <p><strong>AI & Data Science Visionary | MSBA ’25 @ UC Davis GSM</strong></p>
-  <p><em>Turning complex data into strategic decisions and real-world impact.</em></p>
+  <p><em>Engineering high-impact AI systems at the edge of innovation and execution.</em></p>
   <p>
-    <a href="https://www.linkedin.com/in/avikalp"><img src="https://img.shields.io/badge/LinkedIn-@avikalp-blue?logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/avikalp">
+      <img src="https://img.shields.io/badge/LinkedIn-@avikalp-blue?logo=linkedin" alt="LinkedIn"/>
+    </a>
     &nbsp;
-    <a href="https://github.com/Avikalp-Karrahe"><img src="https://img.shields.io/badge/GitHub-@Avikalp--Karrahe-black?logo=github" alt="GitHub"/></a>
+    <a href="https://github.com/Avikalp-Karrahe">
+      <img src="https://img.shields.io/badge/GitHub-@Avikalp--Karrahe-black?logo=github" alt="GitHub"/>
+    </a>
     &nbsp;
-    <a href="mailto:akarrahe@ucdavis.edu"><img src="https://img.shields.io/badge/Email-akarrahe%40ucdavis.edu-red?logo=gmail" alt="Email"/></a>
+    <a href="mailto:akarrahe@ucdavis.edu">
+      <img src="https://img.shields.io/badge/Email-akarrahe%40ucdavis.edu-red?logo=gmail" alt="Email"/>
+    </a>
+    &nbsp;
+    <a href="https://devpost.com/akarrahe?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+      <img src="https://img.shields.io/badge/Devpost-@akarrahe-003E54?logo=devpost&logoColor=white" alt="Devpost"/>
+    </a>
   </p>
 </p>
+
 
 ---
 
@@ -17,40 +28,8 @@
 - **Strategic Innovator**: Architected AI-driven solutions that slashed downtime by **30%**, processed **500K+** records daily, and unlocked **\$120K+** in yearly savings.  
 - **End-to-End Expertise**: From cloud-native **AWS/Redshift** ETL pipelines to **GPT-4** chatbots and real-time **Power BI/Streamlit** dashboards—every layer optimized for scale and reliability.  
 - **Proven Leadership**: Orchestrated cross-functional Agile teams at Coca-Cola, drove admissions analytics at UC Davis GSM, and delivered multi-million-dollar efficiency gains at Cognizant.  
-- **Award-Winning Track Record**: Innovator’s Summit Champion & dual hackathon laureate (Bronze Beacon & Best Mixed Team, Aggie Hackathon 2025).
+- **Award-Winning Track Record**: 🥇 **Most Impactful Project** ([AgentHacks 2025](https://www.agenthacks.org)), 🥉 **Bronze Beacon** & **Best Mixed Team** (Aggie Hackathon 2025), 🏆 **Innovator’s Summit Champion**.
 
----
-
-## 💼 Professional Experience
-
-### 🚀 The Coca-Cola Company (MSBA Practicum)  
-**Project Manager & Data Scientist**  
-_San Francisco, CA (Remote) · Sep 2024 – Present_  
-- As part of the MSBA, developing an **AI-driven chatbot** for Freestyle dispensers—streamlining maintenance operations and slashing machine downtime through proactive diagnostics and real-time insights.  
-- **Designed & deployed** a **GPT-4** powered chatbot to analyze dispenser performance at scale.  
-- **Enhanced performance tracking** by crafting resilient, **Python & Airflow**-based data workflows.  
-- **Architected** automated BI systems—transforming raw logs into executive-ready **Power BI dashboards** that inform strategic finance decisions.  
-- **Led Agile delivery** via **JIRA**, unifying engineering, operations, and finance around shared goals.
-
-### 🎓 UC Davis Graduate School of Management  
-**Graduate Student Analyst**  
-_San Francisco, CA (Hybrid) · Sep 2024 – Present_  
-- Drove **predictive outreach** models that boosted cohort yield by **15%**.  
-- Engineered interactive dashboards for alumni & employment metrics—directly supporting QS ranking submissions.  
-- Orchestrated program-wide events and streamlined student engagement workflows.
-
-### ⚙️ Cognizant Technology Solutions  
-**Data Engineer**  
-_Chennai & Bangalore, India · May 2023 – May 2024_  
-- Built **AWS S3 → Redshift** ETL pipelines ingesting **500K+** transactions/day, delivering **\$120K+** in annual cost savings.  
-- Engineered anomaly detection workflows using **Python & Airflow**, elevating data quality by **30%**.  
-- Delivered executive dashboards via **Tableau** and Excel macros to monitor SLAs and latency.
-
-**Big Data Intern**  
-_Chennai, India · Oct 2022 – Mar 2023_  
-- Processed **200K+** daily transactions with **PySpark**, catalyzing a **5%** revenue uplift.  
-- Led EDA & anomaly detection in **Python & R**, reducing inconsistent records by **30%**.  
-- Produced stakeholder-ready visualizations and documented end-to-end ETL processes.
 
 ---
 
@@ -58,6 +37,7 @@ _Chennai, India · Oct 2022 – Mar 2023_
 
 | Project | Impact | Tech Stack |
 |---------|--------|------------|
+| [PitchSense](https://github.com/Avikalp-Karrahe/PitchSense) | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach (🥇 AgentHacks 2025). | GPT-4 · FAISS · LangChain · Next.js · Python |
 | [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. | Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
 | [Hotel Price Sensitivity](https://github.com/Avikalp-Karrahe/Experimental-Analysis-of-Consumer-Price-Sensitivity-in-Hotel-Bookings) | Randomized pricing experiment on Expedia yielding actionable elasticity insights. | R · Segmented Regression · Monte Carlo |
 | [Dating App Pairings](https://github.com/Avikalp-Karrahe/-Algorithmic-Accuracy-Analysis-of-Dating-App-Pairings) | Advanced match-score modeling to optimize recommendation logic. | R · ggplot2 · RMarkdown |
@@ -66,6 +46,34 @@ _Chennai, India · Oct 2022 – Mar 2023_
 | [Data Lake → Warehouse](https://github.com/Avikalp-Karrahe/Data-Lake-to-Data-Warehouse-Database-Development-and-Insights) | Scalable ETL & enterprise SQL analytics powering strategic decisions. | MySQL · Python · Airflow · Snowflake |
 | [CA Wage Hike DiD](https://github.com/Avikalp-Karrahe/Difference-in-Differences-Study-of-California-Wage-Hike-on-Food-Insecurity) | Rigorous causal analysis of wage policy on food security. | R · Stata · ggplot2 |
 | [Youtuber Age Gate](https://github.com/Avikalp-Karrahe/Youtuber-Age-Gate-Content-Categorization) | Spark-based content classification & Tableau dashboard. | PySpark · Tableau · Python |
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 The Coca-Cola Company (MSBA Practicum)  
+**Project Manager & Data Scientist**  
+_San Francisco, CA (Remote) · Sep 2024 – Present_  
+- Developed an **AI-driven diagnostic assistant** for Freestyle dispensers—cutting downtime and accelerating root-cause analysis using predictive modeling.  
+- **Deployed GPT-4 agents** for log parsing, anomaly detection, and real-time FAQ resolution.  
+- **Orchestrated ETL pipelines** and BI dashboards across finance, engineering, and operations.  
+- Unified cross-functional teams through agile planning, Jira workflows, and high-impact demos.
+
+### 🎓 UC Davis Graduate School of Management  
+**Graduate Student Analyst**  
+_San Francisco, CA (Hybrid) · Sep 2024 – Present_  
+- Drove **predictive outreach** models that boosted cohort yield by **15%**.  
+- Delivered analytics for QS and employment rankings via automated dashboarding and R scripts.
+
+### ⚙️ Cognizant Technology Solutions  
+**Data Engineer**  
+_Chennai & Bangalore, India · May 2023 – May 2024_  
+- Built AWS Redshift ETL pipelines processing **500K+** transactions/day.  
+- Delivered cost-efficient anomaly detection systems and business dashboards.
+
+**Big Data Intern**  
+_Chennai, India · Oct 2022 – Mar 2023_  
+- Improved data accuracy by **30%** using PySpark and EDA; automated ETL documentation pipelines.
 
 ---
 
