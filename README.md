@@ -25,9 +25,11 @@
 
 ## 🌟 Why the Best Companies Choose Me
 
-- **Strategic Innovator**: Architected AI-driven solutions that slashed downtime by **30%**, processed **500K+** records daily, and unlocked **$120K+** in yearly savings.
-- **End-to-End Expertise**: From cloud-native **AWS/Redshift** ETL pipelines to **GPT-4** chatbots and real-time **Power BI/Streamlit** dashboards—every layer optimized for scale and reliability.
-- **Proven Leadership**: Orchestrated cross-functional Agile teams at Coca-Cola, drove admissions analytics at UC Davis GSM, and delivered multi-million-dollar efficiency gains at Cognizant.
+- **Builder of AI-First Products**: From autonomous pitch copilots to real-time maintenance advisors, I build tools that work in production—not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
+- **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit**—ensuring insights don’t just sit in dashboards, but drive decisions.
+- **Proven Track Record of Execution**: My work has won top prizes at **AgentHacks** and **AggieHack**, been featured in UC Davis communications, and delivered measurable value across academic, startup, and enterprise settings.
+- **Cross-Functional Operator**: Whether guiding a hackathon team or aligning product with analytics for Coca-Cola, I translate business needs into scalable machine learning systems and seamless user experiences.
+
 
 ---
 
@@ -36,16 +38,18 @@
 - 🏆 **Most Impactful Project** – [AgentHacks 2025](https://www.agenthacks.org)  
 - 🥉 **Bronze Beacon Award** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
 - 🏆 **Best Mixed Team** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
-- 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Managementt**
+- 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Managementt
 - 🏆 **Innovator’s Summit Champion** - SRM Institue of Science and Technology
 
 ---
 ## 📣 Mentions & Media
 
-- 📄 [MSBA Students Build AI Tools to Save Cities – Aggie Hackathon 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon)  
-- 📰 [Dean H. Rao Unnava's April 2025 Address – UC Davis](https://gsm.ucdavis.edu/news/dean-h-rao-unnava-april-2025)  
-- 🎬 [YouTube Short – PitchSense at AgentHacks](https://www.youtube.com/shorts/JSFleNyDoxk)  
-- 📹 [Full Demo – PitchSense AI Copilot Presentation](https://www.youtube.com/watch?v=v-nArx-Bcl4&t=1s)
+- 🎬 AgentHacks closing ceremony (start at 1:55:21) [Watch here](https://x.com/i/broadcasts/1dRKZYbqBPQxB)  
+- 📄 PitchSense on Devpost – [View submission](https://devpost.com/software/pitchsense?ref_content=my-projects-tab&ref_feature=my_projects)  
+- 📄 MSBA Students Build AI Tools – [Read blog](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon)  
+- 📰 Dean H. Rao Unnava's April 2025 Address – [Read article](https://gsm.ucdavis.edu/news/dean-h-rao-unnava-april-2025)  
+- 🎬 YouTube Short – Team Data Farmers [Watch clip](https://www.youtube.com/shorts/JSFleNyDoxk)  
+- 📹 Dean H. Rao Unnava's Big 3 – [Watch video](https://www.youtube.com/watch?v=v-nArx-Bcl4&t=1s)
 
 ---
 ## 🔥 Signature Projects
@@ -56,7 +60,7 @@
 |🔥 [PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch) | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion. | Python · GitHub API · Notion SDK · LangChain |
 |🔥 [MarketSense](https://github.com/Avikalp-Karrahe/MarketSense) | AI-powered competitor scanner that mines Product Hunt, Google, and Clearbit to produce GPT-4 strategy briefs. | GraphQL · SerpAPI · GPT-4 · Async IO |
 |🔥 [InterviewQueryAgent](https://github.com/Avikalp-Karrahe/InterviewQueryAgent) | LLM tool that converts company guides into structured mock interviews using Claude and prompt chaining. | Claude 3 · Python · CSV · LangChain-style chaining |
-|🔥 [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. | Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
+|🔥 [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. (2x 🏆 AggienHacks 2025)| Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
 | [Hotel Price Sensitivity](https://github.com/Avikalp-Karrahe/Experimental-Analysis-of-Consumer-Price-Sensitivity-in-Hotel-Bookings) | Randomized pricing experiment on Expedia yielding actionable elasticity insights. | R · Segmented Regression · Monte Carlo |
 | [Dating App Pairings](https://github.com/Avikalp-Karrahe/-Algorithmic-Accuracy-Analysis-of-Dating-App-Pairings) | Advanced match-score modeling to optimize recommendation logic. | R · ggplot2 · RMarkdown |
 | [Channel Partner Forecasting](https://github.com/Avikalp-Karrahe/Channel-Partner-Growth-Forecasting-and-Renewal-Decision) | Time-series renewal forecasting driving partner retention strategies. | Python · Prophet · pandas · matplotlib |
@@ -71,7 +75,7 @@
 
 ### 🚀 The Coca-Cola Company (MSBA Practicum Project)  
 **Data Scientist**  
-_San Francisco, CA · Sept 2024 – Present_  
+San Francisco, CA · Sept 2024 – Present  
 - As part of the MSBA, developed an AI-driven chatbot for Coca-Cola Freestyle dispensers to analyze performance metrics.  
 - Built a predictive model to predict failures, optimize and implement proactive repairs, reducing machine downtime.  
 - Enhanced performance tracking by developing a scalable end-to-end data pipeline to reduce Mean Time to Resolution.  
@@ -79,7 +83,7 @@ _San Francisco, CA · Sept 2024 – Present_
 
 ### 🎓 UC Davis Graduate School of Management  
 **Graduate Student Analyst**  
-_San Francisco, CA · Sept 2024 – Present_  
+San Francisco, CA · Sept 2024 – Present  
 - Managed breakout room operations, student scheduling, and in-class logistics for the MSBA 2025 cohort.  
 - Analyzed and reported employment and alumni outcomes to support rankings on QS benchmarking.  
 - Conducted direct outreach to admitted and prospective students to enhance yield and engagement.  
@@ -91,13 +95,20 @@ _San Francisco, CA · Sept 2024 – Present_
 ## 🛠 Core Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Airflow-017EBA?logo=apache-airflow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017EBA?logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT--4-8A2BE2?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-2E8B57?logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prophet-4682B4?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
 </p>
+
 
 ---
 
