@@ -34,22 +34,29 @@
 ## 🏅 Awards & Recognition
 
 - 🏆 **Most Impactful Project** – [AgentHacks 2025](https://www.agenthacks.org)  
-- 🥉 **Bronze Beacon Award** – Aggie Hackathon 2025  
-- 🏆 **Best Mixed Team** – Aggie Hackathon 2025  
+- 🥉 **Bronze Beacon Award** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
+- 🏆 **Best Mixed Team** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
 - 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Managementt**
 - 🏆 **Innovator’s Summit Champion** - SRM Institue of Science and Technology
 
 ---
+## 📣 Mentions & Media
 
+- 📄 [MSBA Students Build AI Tools to Save Cities – Aggie Hackathon 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon)  
+- 📰 [Dean H. Rao Unnava's April 2025 Address – UC Davis](https://gsm.ucdavis.edu/news/dean-h-rao-unnava-april-2025)  
+- 🎬 [YouTube Short – PitchSense at AgentHacks](https://www.youtube.com/shorts/JSFleNyDoxk)  
+- 📹 [Full Demo – PitchSense AI Copilot Presentation](https://www.youtube.com/watch?v=v-nArx-Bcl4&t=1s)
+
+---
 ## 🔥 Signature Projects
 
 | Project | Impact | Tech Stack |
 |---------|--------|------------|
-| [PitchSense](https://github.com/Avikalp-Karrahe/PitchSense) | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach (🏆 AgentHacks 2025). | GPT-4 · FAISS · LangChain · Next.js · Python |
-| [PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch) | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion. | Python · GitHub API · Notion SDK · LangChain |
-| [MarketSense](https://github.com/Avikalp-Karrahe/MarketSense) | AI-powered competitor scanner that mines Product Hunt, Google, and Clearbit to produce GPT-4 strategy briefs. | GraphQL · SerpAPI · GPT-4 · Async IO |
-| [InterviewQueryAgent](https://github.com/Avikalp-Karrahe/InterviewQueryAgent) | LLM tool that converts company guides into structured mock interviews using Claude and prompt chaining. | Claude 3 · Python · CSV · LangChain-style chaining |
-| [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. | Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
+|🔥 [PitchSense](https://github.com/Avikalp-Karrahe/PitchSense) | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach (🏆 AgentHacks 2025). | GPT-4 · FAISS · LangChain · Next.js · Python |
+|🔥 [PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch) | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion. | Python · GitHub API · Notion SDK · LangChain |
+|🔥 [MarketSense](https://github.com/Avikalp-Karrahe/MarketSense) | AI-powered competitor scanner that mines Product Hunt, Google, and Clearbit to produce GPT-4 strategy briefs. | GraphQL · SerpAPI · GPT-4 · Async IO |
+|🔥 [InterviewQueryAgent](https://github.com/Avikalp-Karrahe/InterviewQueryAgent) | LLM tool that converts company guides into structured mock interviews using Claude and prompt chaining. | Claude 3 · Python · CSV · LangChain-style chaining |
+|🔥 [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. | Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
 | [Hotel Price Sensitivity](https://github.com/Avikalp-Karrahe/Experimental-Analysis-of-Consumer-Price-Sensitivity-in-Hotel-Bookings) | Randomized pricing experiment on Expedia yielding actionable elasticity insights. | R · Segmented Regression · Monte Carlo |
 | [Dating App Pairings](https://github.com/Avikalp-Karrahe/-Algorithmic-Accuracy-Analysis-of-Dating-App-Pairings) | Advanced match-score modeling to optimize recommendation logic. | R · ggplot2 · RMarkdown |
 | [Channel Partner Forecasting](https://github.com/Avikalp-Karrahe/Channel-Partner-Growth-Forecasting-and-Renewal-Decision) | Time-series renewal forecasting driving partner retention strategies. | Python · Prophet · pandas · matplotlib |
@@ -94,7 +101,7 @@ _San Francisco, CA · Sept 2024 – Present_
 
 ---
 
-## 🎓 Academic Credentials
+## 🎓 Academics
 
 - **University of California, Davis**  
   Master of Science, Business Analytics (MSBA ’25)  
