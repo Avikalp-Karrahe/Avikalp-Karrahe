@@ -57,7 +57,7 @@
 | Project | Impact | Tech Stack |
 |---------|--------|------------|
 |🔥 [PitchSense](https://github.com/Avikalp-Karrahe/PitchSense) | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach (🏆 AgentHacks 2025). | GPT-4 · FAISS · LangChain · Next.js · Python |
-|🔥 [PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch) | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion. | Python · GitHub API · Notion SDK · LangChain |
+|🔥 [SwitchSense](https://github.com/Avikalp-Karrahe/PromptSwitch) | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion. | Python · GitHub API · Notion SDK · LangChain |
 |🔥 [MarketSense](https://github.com/Avikalp-Karrahe/MarketSense) | AI-powered competitor scanner that mines Product Hunt, Google, and Clearbit to produce GPT-4 strategy briefs. | GraphQL · SerpAPI · GPT-4 · Async IO |
 |🔥 [InterviewQueryAgent](https://github.com/Avikalp-Karrahe/InterviewQueryAgent) | LLM tool that converts company guides into structured mock interviews using Claude and prompt chaining. | Claude 3 · Python · CSV · LangChain-style chaining |
 |🔥 [NeuroPolis](https://github.com/Avikalp-Karrahe/NeuroPolis) | Real-time AI crisis intelligence & GPT-4 chatbot for disaster response. (2x 🏆 AggienHacks 2025)| Python · GPT-4 · Streamlit · GeoPandas · Blockchain |
