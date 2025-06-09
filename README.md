@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>AI & Data Science Visionary | MSBA ’25 @ UC Davis GSM</strong></p>
+  <p><strong>AI Visionary | MSBA ’25 @ UC Davis GSM</strong></p>
   <p><em>Engineering high-impact AI systems at the edge of innovation and execution.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
