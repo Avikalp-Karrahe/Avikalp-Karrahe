@@ -75,59 +75,129 @@
 
 ---
 
----
-
 ## 💼 Professional Experience
 
-### 🚀 The Coca-Cola Company (MSBA Practicum Project)  
-**Data Scientist**  
-San Francisco, CA · Sept 2024 – Present  
-- As part of the MSBA, developed an AI-driven chatbot for Coca-Cola Freestyle dispensers to analyze performance metrics.  
-- Built a predictive model to predict failures, optimize and implement proactive repairs, reducing machine downtime.  
-- Enhanced performance tracking by developing a scalable end-to-end data pipeline to reduce Mean Time to Resolution.  
-- Streamlined maintenance operations, enabling data-driven decision-making using Power BI to minimize repair expenses.
+### 🏢 The Coca-Cola Company (Practicum Project)
+**AI Engineer** | San Francisco, CA | Sept 2024 – Present
+- Developed an AI chatbot for Coca-Cola Freestyle dispensers to analyze performance metrics
+- Built predictive models to predict failures and implement proactive repairs, reducing machine downtime
+- Enhanced performance tracking by developing scalable end-to-end data pipelines to reduce Mean Time to Resolution
+- Streamlined maintenance operations using Power BI for data-driven decision-making to minimize repair expenses
 
-### 🎓 UC Davis Graduate School of Management  
-**Graduate Student Analyst**  
-San Francisco, CA · Sept 2024 – Present  
-- Managed breakout room operations, student scheduling, and in-class logistics for the MSBA 2025 cohort.  
-- Analyzed and reported employment and alumni outcomes to support rankings on QS benchmarking.  
-- Conducted direct outreach to admitted and prospective students to enhance yield and engagement.  
-- Acted as a student ambassador in email campaigns and Zoom calls, helping applicants navigate admissions.  
-- Collaborated with the GSA team to organize program-wide events and streamline communications between students and staff.
+### 💻 Cognizant Technology Solutions
+**Data Engineer** | Chennai, India | May 2023 – May 2024
+- Built Pentaho pipeline processing customer and billing data with rule-based anomaly detection, reducing operational costs by $120K annually
+- Designed scalable ETL workflows migrating billing data from 7 sources into Gen 3 warehouse with data quality scoring models
+- Engineered automated feature pipelines using Python and SQL with time-series forecasting for 500K+ daily records
+- Applied AGILE principles through development cycles using JIRA for tracking model updates and testing schedules
+
+**Big Data Intern** | Bangalore, India | Oct 2022 – March 2023
+- Built scalable ETL pipelines with AWS S3 and Redshift processing 200K+ supermarket transactions daily
+- Applied association rule mining (Apriori) to uncover product affinities, driving 5% revenue uplift
+- Conducted data profiling and anomaly detection using Isolation Forest, reducing inconsistent records by 30%
+- Built stakeholder-facing Tableau dashboards integrating anomaly scores and model outputs
 
 ---
 
-## 🛠 Core Tech & Tools
+## 🎓 Education
+
+### 🏛️ University of California, Davis
+**Master of Science, Business Analytics** | San Francisco, CA | Expected Aug 2025
+
+*Highlighted Coursework:* Advanced Statistics & Forecasting, Machine Learning, Big Data, Marketing Analytics, Analytical Decision Making
+
+### 🏛️ SRM Institute of Science and Technology
+**Bachelor of Technology, Electronics and Communication** | Chennai, India | June 2018 – May 2022
+
+*GPA: 3.9/4.0*
+
+*Highlighted Coursework:* Data Analytics, Satellite Communications, Computer Networks, Nanotechnology, Optical Communications
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 AI/ML Frameworks
+```
+LLMs • LangChain • FAISS • Pinecone • scikit-learn • XGBoost • Prophet • NLTK • Transformers • Hugging Face
+```
+
+### 📊 Forecasting & ML
+```
+Advanced Regression • Classification • Time-Series Analysis • Monte Carlo Simulation • Bayesian Optimization
+```
+
+### ☁️ Platforms & Visualization
+```
+AWS • Google Cloud Platform • Oracle DBMS • Azure • Snowflake • Redshift • Power BI • Streamlit • Git
+```
+
+### 🎯 Specialties
+```
+Demand Forecasting • Advertising Analytics • Customer Segmentation • Recommendation Systems • NLP Applications
+```
+
+---
+
+## 🌟 Core Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017EBA?logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--4-8A2BE2?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-2E8B57?logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prophet-4682B4?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-
----
-
-## 🎓 Academics
-
-- **University of California, Davis**  
-  Master of Science, Business Analytics (MSBA ’25)  
-- **SRM Institute of Science & Technology**  
-  B.Tech, Electronics & Communication Engineering (GPA: 3.9/4.0)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/avikalp">LinkedIn</a> • 📂 <a href="https://github.com/Avikalp-Karrahe">GitHub</a> • ✉️ akarrahe@ucdavis.edu  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Leadership & Impact
+
+### 🎓 UC Davis Graduate School of Management
+**Graduate Student Analyst** | San Francisco, CA | Sept 2024 – Present
+
+Worked closely with program leadership to support the MSBA program's daily operations and strategic outreach by:
+- Managing academic logistics and student scheduling
+- Compiling data for rankings and market analysis
+- Serving as key point of contact for prospective and admitted students
+- Supporting program-wide events and communications
+
+
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <i>"Turning data into insights, insights into action, and action into impact."</i>
+</p>
+
+<p align="center"> 
   <br><em>Ready to engineer your next AI breakthrough? Let’s connect.</em>
 </p>
+
+
+<p align="center">
+  <a href="mailto:akarrahe@ucdavis.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avikalp">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
