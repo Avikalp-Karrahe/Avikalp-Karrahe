@@ -70,7 +70,7 @@
 - 🏆 **Most Impactful Project** – [AgentHacks 2025](https://www.agenthacks.org)  
 - 🥉 **Bronze Beacon Award** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
 - 🏆 **Best Mixed Team** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
-- 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Management
+- 🎓 **$$$ Fellowship Grant** - University of California, Davis Graduate School of Management
 - 🏆 **Innovator's Summit Champion** - SRM Institute of Science and Technology
 
 ---
