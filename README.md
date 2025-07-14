@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>AI Visionary | MSBA ’25 @ UC Davis GSM</strong></p>
-  <p><em>Engineering high-impact AI systems at the edge of innovation and execution.</em></p>
+  <p><strong>Founder of IQKiller | AI Visionary | MSBA '25 @ UC Davis GSM</strong></p>
+  <p><em>Engineering high-impact AI systems at the edge of innovation and execution—founding IQKiller to revolutionize interview prep with AI.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
       <img src="https://img.shields.io/badge/LinkedIn-@avikalp-blue?logo=linkedin" alt="LinkedIn"/>
@@ -18,18 +18,50 @@
     <a href="https://devpost.com/akarrahe">
       <img src="https://img.shields.io/badge/Devpost-@akarrahe-003E54?logo=devpost&logoColor=white" alt="Devpost"/>
     </a>
+    &nbsp;
+    <a href="https://discord.gg/iqkiller">
+      <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?logo=discord&logoColor=white" alt="Discord"/>
+    </a>
   </p>
 </p>
 
 ---
 
+## 📊 Contribution Overview
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Systems;Founder+of+IQKiller+Interview+Platform;15%2B+Projects+%7C+5+Major+Awards+Won;Turning+Data+into+Actionable+Insights" alt="Typing Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Wave Animation"/>
+</div>
+
+## ⚡ Quick Stats
+
+<div align="center">
+  
+| 💡 **Projects** | 🏆 **Awards** | 📊 **Tech Stack** | 🌍 **Impact** |
+|:---:|:---:|:---:|:---:|
+| 15+ AI Projects | 5 Major Awards | 10+ Technologies | $120K+ Saved |
+| IQKiller Founder | AgentHacks Winner | Full-Stack Expert | 500K+ Records |
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avikalp-Karrahe&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Avikalp-Karrahe?style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love"/>
+</div>
+
+---
+
 ## 🌟 Why the Best Companies Choose Me
 
-- **Builder of AI-First Products**: From autonomous pitch copilots to real-time maintenance advisors, I build tools that work in production—not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
-- **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit**—ensuring insights don’t just sit in dashboards, but drive decisions.
+- **Builder of AI-First Products**: From founding IQKiller (an AI interview coach) to autonomous pitch copilots and real-time maintenance advisors, I build tools that work in production—not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
+- **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit**—ensuring insights don't just sit in dashboards, but drive decisions.
 - **Proven Track Record of Execution**: My work has won top prizes at **AgentHacks** and **AggieHack**, been featured in UC Davis communications, and delivered measurable value across academic, startup, and enterprise settings.
 - **Cross-Functional Operator**: Whether guiding a hackathon team or aligning product with analytics for Coca-Cola, I translate business needs into scalable machine learning systems and seamless user experiences.
-
 
 ---
 
@@ -38,8 +70,8 @@
 - 🏆 **Most Impactful Project** – [AgentHacks 2025](https://www.agenthacks.org)  
 - 🥉 **Bronze Beacon Award** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
 - 🏆 **Best Mixed Team** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
-- 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Managementt
-- 🏆 **Innovator’s Summit Champion** - SRM Institue of Science and Technology
+- 🎓 **$15,000 Fellowship Grant** - University of California, Davis Graduate School of Management
+- 🏆 **Innovator's Summit Champion** - SRM Institute of Science and Technology
 
 ---
 ## 📣 Mentions & Media
@@ -53,10 +85,15 @@
 
 ---
 ## 🔥 Signature Projects
+
+<details>
+<summary>Click to expand projects table</summary>
+
 <div align="center">
 
 | 🎯 **Project** | 💡 **Impact & Description** | 🛠️ **Tech Stack** |
 |:---|:---|:---|
+| 🔥 **[IQKiller](https://github.com/Avikalp-Karrahe/iqkiller-vercel)** | AI-powered interview prep platform with real-time analysis, personalized questions, and comprehensive guides. Built to level the playing field for developers in tech interviews. | `Next.js` • `TypeScript` • `OpenAI` • `Firecrawl` • `Google Document AI` • `Vercel` • `PostgreSQL` • `Tailwind CSS` |
 | 🔬 **[Financial Contrarian Intelligence System](https://github.com/Avikalp-Karrahe/financial-contrarian-intelligence-system)** | **Research Project:** Comprehensive AI-powered system for identifying and tracking contrarian financial analysts who consistently oppose market consensus during earnings announcements. Leverages advanced sentiment analysis and machine learning to uncover investment opportunities through contrarian insights. | `Python` • `Groq LLM` • `yfinance` • `Guardian API` • `pandas` • `PyYAML` • `BeautifulSoup` |
 | 🔥 **[PitchSense](https://github.com/Avikalp-Karrahe/PitchSense)** | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach<br/>🏆 **Most Impactful Award - AgentHacks 2025** | `GPT-4` • `FAISS` • `LangChain` • `Next.js` • `Python` |
 | 🔥 **[PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch)** | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion | `Python` • `GitHub API` • `Notion SDK` • `LangChain` |
@@ -72,6 +109,8 @@
 | 📺 **[YouTube Age Gate](https://github.com/Avikalp-Karrahe/Youtuber-Age-Gate-Content-Categorization)** | Spark-based content classification with Tableau dashboard | `PySpark` • `Tableau` • `Python` |
 
 </div>
+
+</details>
 
 ---
 
@@ -175,7 +214,7 @@ Worked closely with program leadership to support the MSBA program's daily opera
 - Serving as key point of contact for prospective and admitted students
 - Supporting program-wide events and communications
 
-
+---
 
 ## 📫 Let's Connect!
 
@@ -184,9 +223,8 @@ Worked closely with program leadership to support the MSBA program's daily opera
 </p>
 
 <p align="center"> 
-  <br><em>Ready to engineer your next AI breakthrough? Let’s connect.</em>
+  <br><em>Ready to engineer your next AI breakthrough? Let's connect.</em>
 </p>
-
 
 <p align="center">
   <a href="mailto:akarrahe@ucdavis.edu">
@@ -198,6 +236,9 @@ Worked closely with program leadership to support the MSBA program's daily opera
   <a href="https://github.com/Avikalp-Karrahe">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://discord.gg/iqkiller">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
----
+--- 
