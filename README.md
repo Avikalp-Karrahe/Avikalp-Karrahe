@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>Founder of IQKiller | AI Visionary | MSBA '25 @ UC Davis GSM</strong></p>
+  <p><strong>Founder of IQKiller | Jack of all LLMs and mastering none | MSBA '25 @ UC Davis GSM</strong></p>
   <p><em>Engineering high-impact AI systems at the edge of innovation and execution—founding IQKiller to revolutionize interview prep with AI.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
