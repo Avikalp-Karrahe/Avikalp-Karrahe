@@ -1,3 +1,6 @@
+<!-- Drop a follow on Linkedin -->
+
+
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
   <p><strong>Founder of IQKiller | AI Innovator | Jack of all LLMs and currently mastering agents | MSBA '25 @ UC Davis GSM</strong></p>
