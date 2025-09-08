@@ -73,25 +73,25 @@
 | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) |
 
 <p align="center">
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/1-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 1">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/2-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 2">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/3-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 3">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/4-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 4">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/5-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 5">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/6-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 6">
   </a>
-  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=🎯+**Ready+to+make+your+move?**%0A%0A✅+**Just+click+the+GREEN+"Submit+new+issue"+button+below!**%0A%0A🚫+**Don't+change+anything**+-+the+title+is+already+set+correctly%0A%0A⏱️+Your+move+will+appear+on+the+game+board+in+~30+seconds%0A%0A🎮+**That's+it+-+you're+playing+Connect+Four!**">
     <img src="https://img.shields.io/badge/7-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 7">
   </a>
 </p>
