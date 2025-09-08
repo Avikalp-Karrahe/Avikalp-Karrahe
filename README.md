@@ -1,29 +1,6 @@
 <!-- Drop a follow on https://www.linkedin.com/in/avikalp/ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:001100,20:002200,30:003300,40:004400,50:005500,60:004400,70:003300,80:002200,90:001100,100:000000&height=300&section=header&text=01.%&fontSize=120&fontColor=00ff41&animation=fadeIn&fontAlignY=50" width="100%"/>
-</div>
 
-<div align="center" style="background: #000000; padding: 20px;">
-  <pre style="color: #00ff41; font-family: 'Courier New', monospace; font-size: 10px; line-height: 1.2; background: #000000; margin: 0;">
-A  E  X  K     X  :  L     +  S  J  2  ?
-7  P  $  @  J  T     9  3  8  4  B  2
-4  9     1  7  /  ?  I  $  3     K
-6  +  E  ?  =  E  5  &  (     H  4  C     2  8
-   A  %     6  3     &  K  I     J  %  8
-I  6  8  +  I  9  8  5  +  7  X  4  (  +  4  D  8  2
-5  8     V  8  J  8  S  +  8  Z  5  $  3  8  5
-I  $  =  /  5  8     K  7  +  7  4  >  +  5  4  6  6
-4  X  9  6  H  Z  S  K  Z  +  7  $  X  4  D  8  2
-8  K  X  5     K  7  P  8  7  $  5  3  8  5
-B  9  6     S     7  +  7  4  >  +  5  4  6  6
-X     9  8  J  8  S  +  8  Z  5  $  3  8  5
-  </pre>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=50&lines=MATRIX+DIGITAL+RAIN+ACTIVATED;WELCOME+TO+THE+SIMULATION" alt="Matrix Rain Effect"/>
-</div>
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
