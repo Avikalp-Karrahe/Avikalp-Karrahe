@@ -188,22 +188,34 @@ module Connect4
       # Replace or add game section
       game_section = generator.generate_game_section
       
+      # Simple approach: if game section exists, replace it; otherwise add it
       if current_content.include?('🎮 **CONNECT FOUR CHAMPIONSHIP**')
-        # Replace existing game section - from championship header to next section
-        updated_content = current_content.gsub(
-          /---\s*<div align="center">\s*# 🎮 \*\*CONNECT FOUR CHAMPIONSHIP\*\*.*?(?=##|\z)/m,
-          game_section + "\n\n"
-        )
+        # Find the start and end of the game section
+        start_marker = '🎮 **CONNECT FOUR CHAMPIONSHIP**'
+        end_marker = '## 🌟 Why the Best Companies Choose Me'
+        
+        start_index = current_content.index(start_marker)
+        end_index = current_content.index(end_marker)
+        
+        if start_index && end_index
+          # Replace the section between markers
+          before_section = current_content[0...start_index]
+          after_section = current_content[end_index..-1]
+          updated_content = before_section + game_section + "\n\n" + after_section
+        else
+          # Fallback: just append
+          updated_content = current_content + "\n\n" + game_section + "\n"
+        end
       else
-        # Add game section after vibe check
-        if current_content.include?('## 💀 Current Vibe Check')
+        # Add game section before "Why the Best Companies Choose Me"
+        if current_content.include?('## 🌟 Why the Best Companies Choose Me')
           updated_content = current_content.gsub(
-            /(## 💀 Current Vibe Check.*?(?=##|\z))/m,
-            "\\1\n\n#{game_section}\n\n"
+            '## 🌟 Why the Best Companies Choose Me',
+            game_section + "\n\n## 🌟 Why the Best Companies Choose Me"
           )
         else
           # Add at the end
-          updated_content = current_content + "\n\n#{game_section}\n"
+          updated_content = current_content + "\n\n" + game_section + "\n"
         end
       end
       
