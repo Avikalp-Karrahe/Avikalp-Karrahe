@@ -171,10 +171,10 @@ module Connect4
       # Replace or add game section
       game_section = generator.generate_game_section
       
-      if current_content.include?('## 🎮 Join my community Connect Four game!')
-        # Replace existing game section
+      if current_content.include?('## 🎯 **HOW TO PLAY**')
+        # Replace existing game section - from status badges to end of game section
         updated_content = current_content.gsub(
-          /## 🎮 Join my community Connect Four game!.*?(?=##|\z)/m,
+          /<img src="https:\/\/img\.shields\.io\/badge\/🎯%20Moves.*?(?=##|\z)/m,
           game_section + "\n\n"
         )
       else
