@@ -1,5 +1,29 @@
 <!-- Drop a follow on https://www.linkedin.com/in/avikalp/ -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:00ff41&height=200&section=header&text=MATRIX%20LOADING...&fontSize=40&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20the%20Digital%20Realm&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<div align="center">
+  <pre>
+<span style="color: #00ff41; font-family: 'Courier New', monospace; font-size: 8px; line-height: 0.8;">
+██╗   ██╗██╗██████╗ ████████╗██╗   ██╗ █████╗ ██╗         ██████╗ ███████╗ █████╗ ██╗     ██╗████████╗██╗   ██╗
+██║   ██║██║██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██║         ██╔══██╗██╔════╝██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
+██║   ██║██║██████╔╝   ██║   ██║   ██║███████║██║         ██████╔╝█████╗  ███████║██║     ██║   ██║    ╚████╔╝ 
+╚██╗ ██╔╝██║██╔══██╗   ██║   ██║   ██║██╔══██║██║         ██╔══██╗██╔══╝  ██╔══██║██║     ██║   ██║     ╚██╔╝  
+ ╚████╔╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗    ██║  ██║███████╗██║  ██║███████╗██║   ██║      ██║   
+  ╚═══╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝   
+</span>
+  </pre>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=ACCESSING+MAINFRAME...;DECRYPTING+DATA+STREAMS...;NEURAL+NETWORKS+ONLINE...;WELCOME+TO+THE+MATRIX" alt="Matrix Loading Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001100,100:000000&height=3&section=header" width="100%"/>
+</div>
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
