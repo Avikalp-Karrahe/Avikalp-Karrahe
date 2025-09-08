@@ -108,7 +108,13 @@ module Connect4
       if @client.file_exists?(path: GAME_DATA_PATH)
         content = @client.get_file_content(path: GAME_DATA_PATH)
         yaml_content = Base64.decode64(content.content)
-        YAML.safe_load(yaml_content, symbolize_names: true)
+        data = YAML.safe_load(yaml_content)
+        # Convert string keys to symbols for consistency
+        {
+          game: data['game'] || data[:game] || Game.new.to_hash,
+          recent_moves: data['recent_moves'] || data[:recent_moves] || [],
+          leaderboard: data['leaderboard'] || data[:leaderboard] || []
+        }
       else
         {
           game: Game.new.to_hash,
