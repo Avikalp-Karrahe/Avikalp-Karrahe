@@ -35,17 +35,13 @@
 
 # 🎮 **CONNECT FOUR CHAMPIONSHIP** 🏆
 ### *Join the Ultimate GitHub Gaming Experience!*
-
 ![Moves](https://img.shields.io/badge/🎯_Moves_Played-0-4c1?style=for-the-badge&logo=target&logoColor=white)
 ![Status](https://img.shields.io/badge/🚀_Game_Status-Active-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white)
 ![Turn](https://img.shields.io/badge/⚡_Current_Turn-Red-red?style=for-the-badge&logo=bolt&logoColor=white)
-
 ### 🎯 **HOW TO PLAY**
 **Click any column number below to drop your piece!** 🪙
-
 ## 🔴 **RED TEAM** - Your move! 🔴
 *Choose your column wisely... Victory awaits!* ⚔️
-
 ### ⭐ **GAME BOARD** ⭐
 
 </div>
@@ -62,19 +58,15 @@
 | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) |
 
 [![Drop](https://img.shields.io/badge/DROP-1-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-2-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-3-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-4-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-5-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-6-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-7-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
-
 ### 🤖 **AI ASSISTANT** 🤖
 [![AI Move](https://img.shields.io/badge/🤖_REQUEST_AI_MOVE-CLICK_HERE-purple?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 *Let our AI make the next strategic move for you!*
-
 ### ⚡ **RECENT BATTLES** ⚡
 | 🎯 **Team** | 🎪 **Column** | 👤 **Player** | 📅 **Time** |
 |:---:|:---:|:---:|:---:|
 | 🎮 | *No moves yet* | *Be the first!* | ⏰ |
-
 ### 🏆 **HALL OF FAME** 🏆
 *Top Champions with the Most Victories*
-
 | 🏆 **Rank** | 👑 **Champion** | 🎯 **Victories** | 🔥 **Status** |
 |:---:|:---:|:---:|:---:|
 | 🥇 | *No champions yet* | *0* | 🎮 *Be the first legend!* |
