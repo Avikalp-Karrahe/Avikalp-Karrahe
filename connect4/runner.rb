@@ -188,10 +188,10 @@ module Connect4
       # Replace or add game section
       game_section = generator.generate_game_section
       
-      if current_content.include?('## 🎯 **HOW TO PLAY**')
-        # Replace existing game section - from status badges to end of game section
+      if current_content.include?('🎮 **CONNECT FOUR CHAMPIONSHIP**')
+        # Replace existing game section - from championship header to next section
         updated_content = current_content.gsub(
-          /<img src="https:\/\/img\.shields\.io\/badge\/🎯%20Moves.*?(?=##|\z)/m,
+          /<div align="center">\s*# 🎮 \*\*CONNECT FOUR CHAMPIONSHIP\*\*.*?(?=##|\z)/m,
           game_section + "\n\n"
         )
       else
