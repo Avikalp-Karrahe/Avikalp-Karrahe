@@ -109,12 +109,23 @@ module Connect4
         content = @client.get_file_content(path: GAME_DATA_PATH)
         yaml_content = Base64.decode64(content.content)
         data = YAML.safe_load(yaml_content)
-        # Convert string keys to symbols for consistency
-        {
-          game: data['game'] || data[:game] || Game.new.to_hash,
-          recent_moves: data['recent_moves'] || data[:recent_moves] || [],
-          leaderboard: data['leaderboard'] || data[:leaderboard] || []
-        }
+        
+        # Handle case where data might not be a hash
+        if data.is_a?(Hash)
+          # Convert string keys to symbols for consistency
+          {
+            game: data['game'] || data[:game] || Game.new.to_hash,
+            recent_moves: data['recent_moves'] || data[:recent_moves] || [],
+            leaderboard: data['leaderboard'] || data[:leaderboard] || []
+          }
+        else
+          # If data is not a hash, start fresh
+          {
+            game: Game.new.to_hash,
+            recent_moves: [],
+            leaderboard: []
+          }
+        end
       else
         {
           game: Game.new.to_hash,
