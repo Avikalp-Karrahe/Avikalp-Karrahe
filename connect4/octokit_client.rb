@@ -1,4 +1,5 @@
 require 'octokit'
+require 'base64'
 
 module Connect4
   class OctokitClient
@@ -21,7 +22,7 @@ module Connect4
         path,
         message,
         sha,
-        content
+        Base64.encode64(content)
       )
     end
 
@@ -30,7 +31,7 @@ module Connect4
         @repository,
         path,
         message,
-        content
+        Base64.encode64(content)
       )
     end
 
