@@ -1,0 +1,49 @@
+name: Connect Four Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  connect4:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'connect4|')
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+        
+    - name: Install dependencies
+      run: |
+        gem install octokit
+        
+    - name: Run Connect Four game
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
+        ISSUE_TITLE: ${{ github.event.issue.title }}
+        REPOSITORY: ${{ github.repository }}
+        USER: ${{ github.event.issue.user.login }}
+      run: |
+        cd connect4
+        ruby -e "
+        require_relative './runner'
+        
+        runner = Connect4::Runner.new(
+          github_token: ENV['GITHUB_TOKEN'],
+          issue_number: ENV['ISSUE_NUMBER'].to_i,
+          issue_title: ENV['ISSUE_TITLE'],
+          repository: ENV['REPOSITORY'],
+          user: ENV['USER']
+        )
+        
+        runner.run
+        "
