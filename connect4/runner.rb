@@ -166,7 +166,7 @@ module Connect4
       
       # Get current README
       readme_file = @client.get_file_content(path: README_PATH)
-      current_content = Base64.decode64(readme_file.content)
+      current_content = Base64.decode64(readme_file.content).force_encoding('UTF-8')
       
       # Replace or add game section
       game_section = generator.generate_game_section
