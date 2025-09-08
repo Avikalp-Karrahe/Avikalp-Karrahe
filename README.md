@@ -48,8 +48,6 @@
 
 <div align="center">
 
-**🎯 PhD-Level Fun Fact:** My neural networks have collectively processed more tokens than there are atoms in a grain of sand (≈10¹⁸)
-
 </div>
 
 ## ⚡ Quick Stats
