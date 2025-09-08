@@ -57,35 +57,6 @@
 
 </div>
 
-## 🎮 Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-0-blue)
-![](https://img.shields.io/badge/Game%20status-Active-brightgreen)
-![](https://img.shields.io/badge/Current%20turn-Red-red)
-
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
-
-It is the **red** team's turn to play.
-
-|[1](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[2](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[3](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[4](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[5](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[6](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|[7](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.)|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg)|
-
-Tired of waiting? [Request a move](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20README%20will%20be%20updated%20after%20approximately%2030%20seconds.) from Connect4Bot 🤖
-
-**⏰ Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| - | - | - |
-
-**🏆 Leaderboard: Top 10 players with the most game winning moves 🥇**
-| Player | Wins |
-| ------ | -----|
-| - | - |
 
 ## ⚡ Quick Stats
 
