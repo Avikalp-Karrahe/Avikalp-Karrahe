@@ -132,7 +132,7 @@ module Connect4
       game_data = load_game_data
       
       # Save game data
-      yaml_content = YAML.dump(game_data.transform_keys(&:to_s))
+      yaml_content = YAML.dump(game_data)
       encoded_content = Base64.strict_encode64(yaml_content)
       
       if @client.file_exists?(path: GAME_DATA_PATH)
