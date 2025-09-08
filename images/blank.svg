@@ -1,3 +1,14 @@
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="25" cy="25" r="20" fill="#f0f0f0" stroke="#cccccc" stroke-width="2"/>
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="blankGrad" cx="0.3" cy="0.3">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#f8f9fa" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#e9ecef" stop-opacity="0.5"/>
+    </radialGradient>
+    <filter id="blankShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#00000020"/>
+    </filter>
+  </defs>
+  <circle cx="30" cy="30" r="24" fill="url(#blankGrad)" stroke="#dee2e6" stroke-width="2" filter="url(#blankShadow)"/>
+  <circle cx="30" cy="30" r="20" fill="none" stroke="#adb5bd" stroke-width="1" stroke-dasharray="2,2" opacity="0.4"/>
 </svg>

@@ -1,4 +1,20 @@
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="25" cy="25" r="20" fill="#ff4444" stroke="#cc0000" stroke-width="2"/>
-  <circle cx="25" cy="25" r="15" fill="#ff6666" opacity="0.8"/>
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="redGrad" cx="0.3" cy="0.3">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="40%" stop-color="#ee5a52"/>
+      <stop offset="100%" stop-color="#c92a2a"/>
+    </radialGradient>
+    <radialGradient id="redHighlight" cx="0.25" cy="0.25">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="redShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#00000040"/>
+    </filter>
+  </defs>
+  <circle cx="30" cy="30" r="24" fill="url(#redGrad)" stroke="#a61e1e" stroke-width="2" filter="url(#redShadow)"/>
+  <circle cx="30" cy="30" r="20" fill="url(#redHighlight)"/>
+  <circle cx="26" cy="26" r="6" fill="#ffffff" opacity="0.3"/>
 </svg>
