@@ -219,10 +219,9 @@ module Connect4
         end
       end
       
-      encoded_content = Base64.strict_encode64(updated_content)
       @client.update_file(
         path: README_PATH,
-        content: encoded_content,
+        content: updated_content,
         message: "Update Connect Four game board",
         sha: readme_file.sha
       )
