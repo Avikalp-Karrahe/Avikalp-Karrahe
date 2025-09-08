@@ -50,41 +50,9 @@
 ## 🎯 **HOW TO PLAY**
 
 <div align="center">
-  <h2>📋 <strong>EASY 3-STEP PROCESS</strong> 📋</h2>
-  
-  <table>
-    <tr>
-      <td align="center">🖱️<br><strong>STEP 1</strong><br>Click column number</td>
-      <td align="center">📝<br><strong>STEP 2</strong><br>GitHub opens issue form</td>
-      <td align="center">✅<br><strong>STEP 3</strong><br>Click green "Submit new issue" button</td>
-    </tr>
-  </table>
-  
-  <h3>🚨 <strong>IMPORTANT:</strong> Look for the GREEN "Submit new issue" button! 🚨</h3>
-  <p><strong>Don't edit anything - just click the green button to make your move!</strong></p>
-</div>
-
-<div align="center">
+  <p><strong>🪙 Click any column number below to drop your piece! 🪙</strong></p>
   <h3>🔴 <strong>RED TEAM</strong> - Your move! 🔴</h3>
   <p><em>⚔️ Choose your column wisely... Victory awaits! ⚔️</em></p>
-</div>
-
----
-
-## 💡 **WHAT YOU'LL SEE AFTER CLICKING A COLUMN** 💡
-
-<div align="center">
-  <h3>🖼️ The GitHub Issue Form Will Look Like This:</h3>
-  
-  ```
-  📝 Add a title: connect4|drop|red|0  ← (Already filled for you!)
-  📄 Add a description: Just push 'Submit new issue'...
-  
-  [Cancel]  [🟢 Submit new issue]  ← CLICK THIS GREEN BUTTON!
-  ```
-  
-  <h2>🎯 <strong>JUST CLICK THE GREEN BUTTON - THAT'S IT!</strong> 🎯</h2>
-  <p><em>The board will update automatically in ~30 seconds</em></p>
 </div>
 
 ---
