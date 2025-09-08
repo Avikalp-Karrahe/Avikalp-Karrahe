@@ -30,23 +30,29 @@
 
 ---
 
-## 🧠 Algorithm Complexity Visualization
-
-```
-    Time Complexity Analysis of My Projects
-    
-    O(1)     ████████████████████████████████████████ 40%  │ Constant time lookups
-    O(log n) ██████████████████████████████████████   38%  │ Binary search implementations  
-    O(n)     ████████████████████████████████         32%  │ Linear data processing
-    O(n²)    ████████████████████                     20%  │ Nested loop algorithms
-    O(2^n)   ████████                                  8%  │ Recursive backtracking
-    
-    "Premature optimization is the root of all evil" - Donald Knuth
-    
-    Current Research Focus: Transformer Attention Mechanisms O(n²) → O(n log n)
-```
+## 💀 Current Vibe Check
 
 <div align="center">
+
+```
+    My GitHub Stats But Make It Honest:
+    
+    📊 Commits: 1,247 (50% "fix typo", 30% "this should work", 20% actual code)
+    🔥 Streak: 47 days (powered by anxiety and caffeine)
+    ⭐ Stars: 23 (mostly from my mom's alt accounts)
+    🐛 Issues: 156 open (we don't talk about those)
+    
+    Current Status: 
+    [████████████████████████████████████████] 100% Procrastinating
+    
+    Mood: "It's giving main character energy but debugging side quest vibes"
+```
+
+**🎭 Today's Energy:** Chaotic good developer who tests in production
+
+**✨ Fun Fact:** My code works 60% of the time, every time
+
+**🚫 Red Flags:** Commits at 3 AM, uses "yolo" as commit messages, Stack Overflow is my co-pilot
 
 </div>
 
