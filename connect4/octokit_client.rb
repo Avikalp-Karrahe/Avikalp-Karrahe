@@ -22,7 +22,7 @@ module Connect4
         path,
         message,
         sha,
-        Base64.encode64(content)
+        content
       )
     end
 
@@ -31,7 +31,7 @@ module Connect4
         @repository,
         path,
         message,
-        Base64.encode64(content)
+        content
       )
     end
 
