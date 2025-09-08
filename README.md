@@ -34,15 +34,33 @@
 <div align="center">
 
 # 🎮 **CONNECT FOUR CHAMPIONSHIP** 🏆
-### *Join the Ultimate GitHub Gaming Experience!*
-![Moves](https://img.shields.io/badge/🎯_Moves_Played-0-4c1?style=for-the-badge&logo=target&logoColor=white)
-![Status](https://img.shields.io/badge/🚀_Game_Status-Active-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white)
-![Turn](https://img.shields.io/badge/⚡_Current_Turn-Red-red?style=for-the-badge&logo=bolt&logoColor=white)
-### 🎯 **HOW TO PLAY**
-**Click any column number below to drop your piece!** 🪙
-## 🔴 **RED TEAM** - Your move! 🔴
-*Choose your column wisely... Victory awaits!* ⚔️
-### ⭐ **GAME BOARD** ⭐
+
+<p align="center">
+  <em>🌟 Join the Ultimate GitHub Gaming Experience! 🌟</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Moves-0-1a1a2e?style=flat-square&labelColor=16213e&color=0f3460" alt="Moves">
+  <img src="https://img.shields.io/badge/🚀%20Status-ACTIVE-1a1a2e?style=flat-square&labelColor=16213e&color=00d4aa" alt="Status">
+  <img src="https://img.shields.io/badge/⚡%20Turn-RED-1a1a2e?style=flat-square&labelColor=16213e&color=e94560" alt="Turn">
+</p>
+
+---
+
+## 🎯 **HOW TO PLAY**
+
+<p align="center">
+  <strong>🪙 Click any column number below to drop your piece! 🪙</strong>
+</p>
+
+<div align="center">
+  <h3>🔴 <strong>RED TEAM</strong> - Your move! 🔴</h3>
+  <p><em>⚔️ Choose your column wisely... Victory awaits! ⚔️</em></p>
+</div>
+
+---
+
+## ⭐ **GAME BOARD** ⭐
 
 </div>
 
@@ -57,19 +75,68 @@
 | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) |
 | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) | ![](https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/blank.svg) |
 
-[![Drop](https://img.shields.io/badge/DROP-1-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-2-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-3-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-4-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-5-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-6-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) [![Drop](https://img.shields.io/badge/DROP-7-blue?style=for-the-badge)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
-### 🤖 **AI ASSISTANT** 🤖
-[![AI Move](https://img.shields.io/badge/🤖_REQUEST_AI_MOVE-CLICK_HERE-purple?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
-*Let our AI make the next strategic move for you!*
-### ⚡ **RECENT BATTLES** ⚡
+<p align="center">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C0&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/1-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 1">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/2-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 2">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/3-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 3">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/4-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 4">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/5-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 5">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/6-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 6">
+  </a>
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/7-DROP-0f3460?style=flat-square&labelColor=1a1a2e&logo=arrow-down&logoColor=white" alt="Drop 7">
+  </a>
+</p>
+---
+
+## 🤖 **AI ASSISTANT**
+
+<p align="center">
+  <a href="https://github.com/Avikalp-Karrahe/Avikalp-Karrahe/issues/new?title=connect4%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/🤖%20REQUEST%20AI%20MOVE-ACTIVATE-7209b7?style=flat-square&labelColor=2d1b69&logo=robot&logoColor=white" alt="AI Move">
+  </a>
+</p>
+
+<p align="center">
+  <em>🧠 Let our AI make the next strategic move for you! 🧠</em>
+</p>
+---
+
+## ⚡ **RECENT BATTLES**
+
+<div align="center">
+
 | 🎯 **Team** | 🎪 **Column** | 👤 **Player** | 📅 **Time** |
 |:---:|:---:|:---:|:---:|
 | 🎮 | *No moves yet* | *Be the first!* | ⏰ |
-### 🏆 **HALL OF FAME** 🏆
-*Top Champions with the Most Victories*
+
+</div>
+---
+
+## 🏆 **HALL OF FAME**
+
+<p align="center">
+  <em>🌟 Top Champions with the Most Victories 🌟</em>
+</p>
+
+<div align="center">
+
 | 🏆 **Rank** | 👑 **Champion** | 🎯 **Victories** | 🔥 **Status** |
 |:---:|:---:|:---:|:---:|
 | 🥇 | *No champions yet* | *0* | 🎮 *Be the first legend!* |
+
+</div>
 
 </div>
 
