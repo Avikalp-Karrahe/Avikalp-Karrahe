@@ -3,8 +3,8 @@
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>Founder of IQKiller | AI Innovator | Jack of all LLMs and currently mastering agents | MSBA '25 @ UC Davis GSM</strong></p>
-  <p><em>Engineering high-impact AI systems at the edge of innovation and execution—founding IQKiller to revolutionize interview prep with AI.</em></p>
+  <p><strong>Forward Deployed Engineer | Product Builder | B.Tech., MS | LLM Systems | MLOps | MSBA '25 @ UC Davis GSM</strong></p>
+  <p><em>MS in Business Analytics candidate at UC Davis GSM and AI Engineer with 3+ years of experience building real-world AI systems. Shipped award-winning LLM tools, predictive maintenance models for Coca-Cola, and large-scale data pipelines automation, with proven ability to design and deploy production-grade AI platforms that unlock new value.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
       <img src="https://img.shields.io/badge/LinkedIn-@avikalp-blue?logo=linkedin" alt="LinkedIn"/>
@@ -96,7 +96,8 @@
 
 | 🎯 **Project** | 💡 **Impact & Description** | 🛠️ **Tech Stack** |
 |:---|:---|:---|
-| 🔥 **[IQKiller](https://github.com/Avikalp-Karrahe/iqkiller)** | AI-powered interview prep platform with real-time analysis, personalized questions, and comprehensive guides. Built to level the playing field for developers in tech interviews. | `Next.js` • `TypeScript` • `OpenAI` • `Firecrawl` • `Google Document AI` • `Vercel` • `PostgreSQL` • `Tailwind CSS` |
+| 🔥 **Eve AI: Enterprise Voice Agent Platform** | Architected a production-ready Node.js/TypeScript voice AI platform with Express.js backend, integrating Vogent API for intelligent call handling and automated customer interactions. Engineered scalable microservices architecture with Redis batch management, real-time knowledge base system, and 99.9% uptime with automated deployment pipeline. | `Node.js` • `TypeScript` • `Express.js` • `Redis` • `PostgreSQL` • `Prisma` • `Docker` • `Railway` • `Vercel` |
+| 🔥 **[IQKiller](https://github.com/Avikalp-Karrahe/iqkiller)** | AI-powered interview prep platform with real-time analysis, personalized questions, and comprehensive guides. Built to level the playing field for developers in tech interviews. Engineered a sub-200ms streaming LLM engine with interactive progress dashboards. | `Next.js` • `TypeScript` • `OpenAI` • `Firecrawl` • `Google Document AI` • `Vercel` • `PostgreSQL` • `Tailwind CSS` |
 | 🔬 **[Financial Contrarian Intelligence System](https://github.com/Avikalp-Karrahe/financial-contrarian-intelligence-system)** | **Research Project:** Comprehensive AI-powered system for identifying and tracking contrarian financial analysts who consistently oppose market consensus during earnings announcements. Leverages advanced sentiment analysis and machine learning to uncover investment opportunities through contrarian insights. | `Python` • `Groq LLM` • `yfinance` • `Guardian API` • `pandas` • `PyYAML` • `BeautifulSoup` |
 | 🔥 **[PitchSense](https://github.com/Avikalp-Karrahe/PitchSense)** | AI fundraising copilot that matches startups with aligned investors and crafts personalized outreach<br/>🏆 **Most Impactful Award - AgentHacks 2025** | `GPT-4` • `FAISS` • `LangChain` • `Next.js` • `Python` |
 | 🔥 **[PromptSwitch](https://github.com/Avikalp-Karrahe/PromptSwitch)** | Autonomous documentation agent that analyzes GitHub repos and auto-publishes onboarding docs to Notion | `Python` • `GitHub API` • `Notion SDK` • `LangChain` |
@@ -120,24 +121,24 @@
 ## 💼 Professional Experience
 
 ### 🏢 The Coca-Cola Company (Practicum Project)
-**AI Engineer** | San Francisco, CA | Sept 2024 – Present
-- Developed an AI chatbot for Coca-Cola Freestyle dispensers to analyze performance metrics
-- Built predictive models to predict failures and implement proactive repairs, reducing machine downtime
-- Enhanced performance tracking by developing scalable end-to-end data pipelines to reduce Mean Time to Resolution
-- Streamlined maintenance operations using Power BI for data-driven decision-making to minimize repair expenses
+**AI Engineer** | San Francisco, CA | Sept 2024 – Aug 2025
+- As part of the MSBA, I developed an AI chatbot for Coca-Cola Freestyle dispensers to analyze performance metrics
+- Built a predictive model to predict failures, optimize and implement proactive repairs, reducing machine downtime
+- Enhanced performance tracking by developing a scalable end-to-end data pipeline to reduce Mean Time to Resolution
+- Streamlined maintenance operations, enabling data-driven decision-making using Power BI to minimize repair expenses
 
 ### 💻 Cognizant Technology Solutions
 **Data Engineer** | Chennai, India | May 2023 – May 2024
-- Built Pentaho pipeline processing customer and billing data with rule-based anomaly detection, reducing operational costs by $120K annually
-- Designed scalable ETL workflows migrating billing data from 7 sources into Gen 3 warehouse with data quality scoring models
-- Engineered automated feature pipelines using Python and SQL with time-series forecasting for 500K+ daily records
-- Applied AGILE principles through development cycles using JIRA for tracking model updates and testing schedules
+- Built a Pentaho pipeline to process customer and billing data, integrating a rule-based anomaly detection model, reducing operational costs by $120K annually. Created Tableau dashboards to visualize latency and SLA performance for leadership
+- Designed scalable ETL workflows to migrate billing data from 7 sources into a Gen 3 warehouse, using data quality scoring models for fallback routing, error triage, and adaptive pipeline retries based on historical failure rates and SLA sensitivity
+- Engineered automated feature pipelines using Python and SQL, incorporating time-series forecasting models for anomaly detection and real-time reporting across 500K+ daily records, enabling proactive alerts and reducing manual triage efforts
+- Applied AGILE principles through development cycles, using JIRA to track model updates, backlog, and testing schedules
 
-**Big Data Intern** | Bangalore, India | Oct 2022 – March 2023
-- Built scalable ETL pipelines with AWS S3 and Redshift processing 200K+ supermarket transactions daily
-- Applied association rule mining (Apriori) to uncover product affinities, driving 5% revenue uplift
-- Conducted data profiling and anomaly detection using Isolation Forest, reducing inconsistent records by 30%
-- Built stakeholder-facing Tableau dashboards integrating anomaly scores and model outputs
+**Big Data Intern** | Chennai, India | Oct 2022 – March 2023
+- Designed a scalable YouTube categorization system using Apache Spark and Hive, processing over 1M+ videos with end-to-end compliance. Implemented a distributed computing framework with Spark clusters, optimizing throughput by 300% across regions
+- Engineered robust pipelines with Python, SQL, and SQOOP for seamless data migration, reducing regulatory violations by 85%
+- Deployed rule-based age-gating algorithms leveraging Spark and HDFS, enabling real-time filtering across 50+ global markets
+- Designed Tableau dashboards analyzing demographic engagement patterns, boosting ad targeting efficiency by 40%
 
 ---
 
@@ -159,24 +160,29 @@
 
 ## 🛠️ Technical Skills
 
-### 🤖 AI/ML Frameworks
+### 🤖 Machine Learning
 ```
-LLMs • LangChain • FAISS • Pinecone • scikit-learn • XGBoost • Prophet • NLTK • Transformers • Hugging Face
-```
-
-### 📊 Forecasting & ML
-```
-Advanced Regression • Classification • Time-Series Analysis • Monte Carlo Simulation • Bayesian Optimization
+Deep learning • Neural networks • Transformer models • Fine-tuning • Model optimization • Hyperparameter tuning
 ```
 
-### ☁️ Platforms & Visualization
+### 🚀 AI Systems
 ```
-AWS • Google Cloud Platform • Oracle DBMS • Azure • Snowflake • Redshift • Power BI • Streamlit • Git
+LLM integration • Prompt engineering • RAG systems • Vector databases • Embedding models • Agentic AI frameworks
 ```
 
-### 🎯 Specialties
+### ⚙️ MLOps & Deployment
 ```
-Demand Forecasting • Advertising Analytics • Customer Segmentation • Recommendation Systems • NLP Applications
+Model versioning • A/B testing • Production monitoring • Containerized ML pipelines • CI/CD for AI systems
+```
+
+### 📊 Data Science
+```
+Feature engineering • Time-series forecasting • Statistical modeling • Anomaly detection • Predictive analytics
+```
+
+### ☁️ Platforms & Tools
+```
+AWS • Google Cloud Platform • Azure • Snowflake • Redshift • Docker • Kubernetes • Git • JIRA
 ```
 
 ---
@@ -244,4 +250,4 @@ Worked closely with program leadership to support the MSBA program's daily opera
   </a>
 </p>
 
---- 
+---
