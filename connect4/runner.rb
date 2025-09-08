@@ -191,7 +191,7 @@ module Connect4
       if current_content.include?('🎮 **CONNECT FOUR CHAMPIONSHIP**')
         # Replace existing game section - from championship header to next section
         updated_content = current_content.gsub(
-          /<div align="center">\s*# 🎮 \*\*CONNECT FOUR CHAMPIONSHIP\*\*.*?(?=##|\z)/m,
+          /---\s*<div align="center">\s*# 🎮 \*\*CONNECT FOUR CHAMPIONSHIP\*\*.*?(?=##|\z)/m,
           game_section + "\n\n"
         )
       else
