@@ -52,8 +52,8 @@
 
 ## 🌟 Why the Best Companies Choose Me
 
-- **Builder of AI-First Products**: From founding IQKiller (an AI interview coach) to Eve AI (enterprise voice agent platform), autonomous pitch copilots and real-time maintenance advisors, I build tools that work in production—not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
-- **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit**—ensuring insights don't just sit in dashboards, but drive decisions.
+- **Builder of AI-First Products**: From founding Eve AI (enterprise voice agent platform) to  IQKiller (an AI interview coach), autonomous pitch copilots and real-time maintenance advisors, I build tools that work in production not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
+- **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit** ensuring insights don't just sit in dashboards, but drive decisions.
 - **Proven Track Record of Execution**: My work has won top prizes at **AgentHacks** and **AggieHack**, been featured in UC Davis communications, and delivered measurable value across academic, startup, and enterprise settings.
 - **Cross-Functional Operator**: Whether guiding a hackathon team or aligning product with analytics for Coca-Cola, I translate business needs into scalable machine learning systems and seamless user experiences.
 
