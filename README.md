@@ -70,7 +70,7 @@
 
 ---
 ## 📣 Mentions & Media
-- 📄 Ditto Honoable mention - [Ditto Hackathon](https://x.com/AnnieLiao_2000/status/1965836372432007308)
+- 📄 Ditto Honorable mention - [Ditto Hackathon](https://x.com/AnnieLiao_2000/status/1965836372432007308)
 - 📰 RegPulse on Build Club - [View Submission](https://campus.buildclub.ai/projects/01992560-74d2-7805-97c7-4a2d1a0dc70b)
 - 🎬 AgentHacks closing ceremony (start at 1:55:21) [Watch here](https://x.com/i/broadcasts/1dRKZYbqBPQxB)  
 - 📄 PitchSense on Devpost – [View submission](https://devpost.com/software/pitchsense?ref_content=my-projects-tab&ref_feature=my_projects)  
