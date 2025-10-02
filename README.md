@@ -60,7 +60,7 @@
 ---
 
 ## 🏅 Awards & Recognition
-
+- 🥈 **2nd Place Winner | Awarded $2K** – [Hack Night @ GitHub<img src="https://img.shields.io/badge/-black?logo=github"/>](https://hackersquad.io/)
 - 🏆 **Most Impactful Project** – [AgentHacks 2025](https://www.agenthacks.org)  
 - 🥉 **Bronze Beacon Award** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
 - 🏆 **Best Mixed Team** – [Aggie Hacks 2025](https://gsm.ucdavis.edu/blog/msba-students-build-ai-tools-save-cities-hackathon) 
