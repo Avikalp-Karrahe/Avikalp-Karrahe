@@ -4,7 +4,7 @@
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong> Incoming @ Verc.ai </strong></p>
+  <p><strong> Incoming @ Verc  </strong></p>
   <p><em>Passionate about advancing human-AI interaction and creating AI-first products that reduce costs, improve decision-making, and unlock new business value.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
