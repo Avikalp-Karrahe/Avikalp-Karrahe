@@ -4,7 +4,7 @@
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>AI/ML Engineer | Product Builder | B.Tech., MS | LLM Systems | MLOps | MSBA '25 @ UC Davis GSM</strong></p>
+  <p><strong> Incoming @ Verc.ai </strong></p>
   <p><em>MS in Business Analytics graduate at UC Davis GSM and AI Engineer with 3+ years of experience building real-world AI systems. Shipped award-winning LLM tools, predictive maintenance models for Coca-Cola, and large-scale data pipelines automation, with proven ability to design and deploy production-grade AI platforms that unlock new value.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/avikalp">
