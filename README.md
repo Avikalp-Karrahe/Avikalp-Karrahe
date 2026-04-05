@@ -21,10 +21,6 @@
     <a href="https://devpost.com/akarrahe">
       <img src="https://img.shields.io/badge/Devpost-@akarrahe-003E54?logo=devpost&logoColor=white" alt="Devpost"/>
     </a>
-    &nbsp;
-    <a href="https://discord.gg/iqkiller">
-      <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?logo=discord&logoColor=white" alt="Discord"/>
-    </a>
   </p>
 </p>
 
