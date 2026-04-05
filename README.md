@@ -1,6 +1,8 @@
 <!-- Drop a follow on https://www.linkedin.com/in/avikalp/ -->
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/header.svg" alt="Avikalp Karrahe - Founding Engineer" width="100%"/>
+</p>
 
 <p align="center">
   <h1>Avikalp (Avi) Karrahe</h1>
