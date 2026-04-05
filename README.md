@@ -1,7 +1,7 @@
 <!-- Drop a follow on https://www.linkedin.com/in/avikalp/ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/waveform.svg" alt="Voice waveform — 180 days of GitHub activity" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Avikalp-Karrahe/Avikalp-Karrahe/main/images/terminal.svg" alt="Terminal" width="100%"/>
 </p>
 
 <p align="center">
